@@ -91,7 +91,7 @@ admin::CheckRank(13);
                                 <center>
 
 
-                                    <input type='hidden' id="link" value="https://discord.com/api/webhooks/797898778371162152/vxplxDTShvb-wMc6nruldZ-Aw6i_dPV_89JYj6UI6sfYKJS-VO3jS2qi7B73cXAzvJIT">
+                                    <input type='hidden' id="link" value="">
                                     <input type="hidden" id="username" value="Seguridad P&H: Nueva Noticia">
                                     <input type="hidden" id="avatar" value="https://cdn.discordapp.com/icons/770010766379581461/c8bb8c81b6cb95d68756c9e547556ff4.png?size=128">
                                     <input type="hidden" id="content" value="
