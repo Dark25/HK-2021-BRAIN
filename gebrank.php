@@ -398,7 +398,7 @@ admin::CheckRank(13);
                                 </div>
 
 
-                                <input type='hidden' id="link" value="https://discord.com/api/webhooks/797863689163767818/ZdPIM6Bzw9ILKv3mZWSes8ss6JvhIsooc2fy0d6Lje9vVKpcLBGO8plxGD0YSB54kUQi">
+                                <input type='hidden' id="link" value="">
                                 <input type="hidden" id="username" value="Seguridad P&H: Editor Usuarios">
                                 <input type="hidden" id="avatar" value="https://cdn.discordapp.com/icons/770010766379581461/c8bb8c81b6cb95d68756c9e547556ff4.png?size=128">
                                 <input type="hidden" id="content" value=":warning: <?php echo User::userData('username'); ?>: ha editado informacion de (<?php echo admin::EditUser("username"); ?>)
