@@ -5,7 +5,7 @@ include_once "includes/head.php";
 $_SESSION['title'] = '';
 $_SESSION['slogan'] = '';
 $_SESSION['news'] = '';
-admin::CheckRank(13);
+admin::CheckRank(7);
 ?>
 
 <body>
